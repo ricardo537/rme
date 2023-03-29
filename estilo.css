@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+h1
+{
+font-family:'Fredoka One', cursive;
+text-align:center;
+background-color:black;
+color:white;
+}
+body
+{
+background-image:url("fondo.jpg");
+}
+h3
+{
+text-align:center;
+color:black;
+font-family:'Fredoka One', cursive;
+background-color:orange;
+}
+p
+{
+font-weight:bold;	
+}
+fieldset
+{
+background-color:silver;
+}
+.efecto:hover
+{
+font-size: 50px;
+text-decoration:underline;
+transition:6s;
+}
+img
+{
+width: 400px; 
+height: 300px;
+border:5px solid black;
+border-radius:50%;
+display:block;
+margin:auto;
+}
